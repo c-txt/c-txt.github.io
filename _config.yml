@@ -4,13 +4,6 @@ title: Word
 ---
 markdown:kramdown
 
-gems:
-  - jekyll-redirect-from
-whitelist:
-  - jekyll-redirect-from
-plugins:
-  - jekyll-redirect-from
-
 # SEO Stuff
 author: Charlie Joseph
 description: Gleanings from The Word
