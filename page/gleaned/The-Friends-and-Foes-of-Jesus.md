@@ -3,7 +3,7 @@
 
 # The Friends and Foes of Jesus
 
-Test. The scriptures record that during His time here on earth, the Lord was derisively called a friend (G5384: φίλος: filos) of the tax collectors and sinners. But He himself directly addressed only a few — his disciples (in Luke 12:4) and Lazarus (in John 11:11) — as friends.
+The scriptures record that during His time here on earth, the Lord was derisively called a friend (G5384: φίλος: filos) of the tax collectors and sinners. But He himself directly addressed only a few — his disciples (in Luke 12:4) and Lazarus (in John 11:11) — as friends.
 
 ## What did it mean to be a friend of the Son of God?
 

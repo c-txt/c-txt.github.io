@@ -1,6 +1,6 @@
 # Theleema, or the will of God
 
-Begin. Often when faced with difficult choices, one obsesses about what really is the will of God. At other times, one scarcely pays a thought to this difficult to grasp concept, and proceeds with one's own decisions. But for Christ, the will of God was His whole life's purpose. Read Hebrews 10:7.
+Often when faced with difficult choices, one obsesses about what really is the will of God. At other times, one scarcely pays a thought to this difficult to grasp concept, and proceeds with one's own decisions. But for Christ, the will of God was His whole life's purpose. Read Hebrews 10:7.
 
 > Heb 10:7 (also in verse 9):
 > 
