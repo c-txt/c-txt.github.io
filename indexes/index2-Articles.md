@@ -4,7 +4,7 @@ title: All Articles
 
 # All Articles
 
-[How Peter Made Paul's Life Difficult](../page/gleaned/How-Peter-Made-Pauls-Life-Difficult.md)
+[Why Rightly Dividing the Scriptures Requires the Spirit](../page/gleaned/The-Scriptures-And-The-Spirit.md)
 
 [Theleema, or the Will of God](../page/gleaned/Theleema.md)
 
