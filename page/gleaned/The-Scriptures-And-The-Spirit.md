@@ -39,7 +39,7 @@ So was Matthais' election really a blunder? Did the other apostles not follow so
 
 > and he (Matthias) was numbered with **the eleven apostles**.
 
-Note that Luke did not say that Matthias was numbered among the twelve apostles. All that happened was that the other disciples accepted the decision of the lot, and counted Matthais as an apostle, but the inspired scriptures still held that there were only eleven apostles even after the choice. Luke 2:14 reinforces the fact of the error. 
+Note that Luke did not say that Matthias was numbered among the twelve apostles. All that happened was that the other disciples accepted the decision of the lot, and counted Matthais as an apostle, but the inspired scriptures still held that there were only eleven apostles even after the choice. Acts 2:14 reinforces the fact of the error. 
 
 A few chapters later, Acts 9:6, 15 records that man's choice was not God's choice. The Lord met Paul on the road to Damascus and commissioned him with his apostleship. The final word on the decision ultimately comes in Revelation 21:14. The gates of heavenly Jerusalem will have only twelve names of the twelve apostles. And since, Paul is clearly the Lord's directly appointed final apostle, it is easily concluded that Mathias was never in the eyes of scripture an apostle. It was not Peter's or the other apsotle's job to commission a replacement apostle, and before we understand why they erred, we could surmise for a moment how the blunder might have made things for the genuine replacement.
 
