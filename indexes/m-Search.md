@@ -30,4 +30,6 @@ For example, you could search for "<b>#word-study</b>". The currently used hash 
 This full text search over all content in this website is powered by [pagefind](https://pagefind.app/), a completely static search library that runs entirely in your browser, with no connection to a search engine.
 </p>
 </details>
+<br>
+<br>
 </aside></html>
