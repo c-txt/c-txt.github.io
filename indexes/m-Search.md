@@ -24,7 +24,10 @@ Use the fuzzy search box above to search for a word or a combination of words or
 <p>
 For example, you could search for "<b>#word-study</b>". The currently used hash tags include: <b>#word-study #idea-study #Holy-Spirit</b>
 </p>
+<details>
+<summary>Credit</summary>
 <p>
-<b>Credit</b>: This full text search over all content in this website is powered by [pagefind](https://pagefind.app/), a completely static search library that runs entirely in your browser, with no connection to a search engine.
+This full text search over all content in this website is powered by [pagefind](https://pagefind.app/), a completely static search library that runs entirely in your browser, with no connection to a search engine.
 </p>
+</details>
 </aside></html>
