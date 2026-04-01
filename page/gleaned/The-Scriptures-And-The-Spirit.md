@@ -95,4 +95,4 @@ So in the end, whether it be in understanding the scriptures, or in making decis
 ---
 *Published: 19 March, 2026; Updated with corrections: 31 March 2026*
 
-#Holy-Spirit #article
+#Holy-Spirit #idea-study
