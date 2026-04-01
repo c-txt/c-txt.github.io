@@ -22,9 +22,9 @@ window.addEventListener('DOMContentLoaded', (event) => {
 Use the fuzzy search box above to search for a word or a combination of words or a hash tag. 
 </p>
 <p>
-For example, you could search for "*#word-study*". The currently used hash tags include: *#word-study #idea-study #Holy-Spirit*
+For example, you could search for "<b>#word-study</b>". The currently used hash tags include: <b>#word-study #idea-study #Holy-Spirit</b>
 </p>
 <p>
-*Credit*: This full text search over all content in this website is powered by [pagefind](https://pagefind.app/), a completely static search library that runs entirely in your browser, with no connection to a search engine.
+<b>Credit</b>: This full text search over all content in this website is powered by [pagefind](https://pagefind.app/), a completely static search library that runs entirely in your browser, with no connection to a search engine.
 </p>
 </aside></html>
