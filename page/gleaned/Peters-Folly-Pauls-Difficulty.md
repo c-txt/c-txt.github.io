@@ -93,7 +93,7 @@ So in the end, whether it be in understanding the scriptures, or in making decis
 2. False teachers: 1 Tim 1: 3-7; 2 Tim 4: 3,4; 2 Pet 2:1-3; Jude 1:4-16
 
 ---
-*Published: 19 March, 2026; Updated with corrections: 31 March 2026*
-short link: [https://c-txt.github.io/p/260319](https://c-txt.github.io/p/260319)
+*Published: 19 March, 2026; Updated with corrections: 31 March 2026; 
+short link: [https://c-txt.github.io/p/260319](https://c-txt.github.io/p/260319)*
 
 #Holy-Spirit #idea-study
