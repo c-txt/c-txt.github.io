@@ -4,7 +4,7 @@ title: All Articles
 
 # All Articles
 
-[Why Rightly Dividing the Scriptures Requires the Spirit](../page/gleaned/The-Scriptures-And-The-Spirit.md)
+[Peter's Folly, Paul's Difficulty](../page/gleaned/Peters-Folly-Pauls-Difficulty.md)
 
 [Theleema, or the Will of God](../page/gleaned/Theleema.md)
 

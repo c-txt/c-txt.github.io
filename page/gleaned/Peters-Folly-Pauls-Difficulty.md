@@ -1,4 +1,4 @@
-# Why Rightly Dividing the Scriptures Requires the Spirit
+# Peter's Folly, Paul's Difficulty
 
 
 ***Abstract:** When Peter and the other apostles presented Matthias as a replacement for Judas' apostleship, they did not realize that they were making an error. It can be easily surmised that the blunder would later lead to difficulties for the Lord's chosen replacement, Paul. All this goes to show that, rightly dividing the scriptures requires not merely the intellect but the guidance of the Holy Spirit.* 
