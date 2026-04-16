@@ -52,7 +52,7 @@ So Peter having started opening the door for the Jews, would soon be asked to al
 
 ### The keys sent to the Samaritans
 
-The second time Peter used his key was after Samaria received the Word of God. Though they had believed and been baptized through the ministry of Philip the evangelist, they had not received the Spirit. It was only after Peter and John, sent by the other apostles in Jerusalem, prayed for them and laid hands on them that they received the Hoky Spirit.
+The second time Peter used his key was after Samaria received the Word of God. Though they had believed and been baptized through the ministry of Philip the evangelist, they had not received the Spirit. It was only after Peter and John, sent by the other apostles in Jerusalem, prayed for them and laid hands on them that they received the Holy Spirit.
 
 >Now when the apostles at Jerusalem heard that Samaria had received the word of God, they sent to them Peter and John, who came down and prayed for them that they might receive the Holy Spirit, for he had not yet fallen on any of them, but they had only been baptized in the name of the Lord Jesus. Then they laid their hands on them and they received the Holy Spirit. - Acts 8:14
 
@@ -70,7 +70,7 @@ Later, even as Peter preached in the house that was filled with Cornelius' relat
 
 Undoubtedly, none of the three accounts above of the pouring out of the Holy Spirit are meant to be used in isolation as a perfect pattern for the church today. For if they were, which pattern would be followed? 
 
-In the case of the Jews, the order was water baptism first - with repentance and belief, and then the filling of the Holy Spirit. In the case of the Samaritans no repentance is mentioned, first it was belief, then baptism,and later the receiving of the Holy Spirit. Lastly, in the case of the gentiles, again no repentance is specifically mentioned, belief and receiving of the Spirit happened at the same time, and only later were these new converts baptized in water.
+In the case of the Jews, the order was water baptism first -- with repentance and belief -- and then the filling of the Holy Spirit. In the case of the Samaritans no repentance is mentioned, first it was belief, then baptism,and later the receiving of the Holy Spirit. Lastly, in the case of the gentiles, again no repentance is specifically mentioned, belief and receiving of the Spirit happened at the same time, and only later were these new converts baptized in water.
 
 Paul later, writing to the Corinthian believers, reminded then that there was only one baptism.  
 
