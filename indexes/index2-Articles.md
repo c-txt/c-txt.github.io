@@ -4,6 +4,8 @@ title: All Articles
 
 # All Articles
 
+[Peter's Keys and the Baptism of the Spirit](../page/gleaned/Peters-Keys.md)
+
 [Peter's Folly, Paul's Difficulty](../page/gleaned/Peters-Folly-Pauls-Difficulty.md)
 
 [Theleema, or the Will of God](../page/gleaned/Theleema.md)
