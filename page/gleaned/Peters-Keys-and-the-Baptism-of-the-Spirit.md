@@ -82,9 +82,11 @@ As the early church continued to grow, countless numbers, mostly gentiles as wel
 
 ### The bottom line
 
-Unfortunately, many these days confuse the one-time baptism of the Spirit with the filling of the Holy Spirit, the latter of which ought to be an ongoing experience in the life of the Christian. This is not a minor quibbling over words as sadly, the consequences of this confusion is often further, and at times harmful, confusion. 
+Unfortunately, many these days confuse the one-time baptism of the Spirit with the filling of the Holy Spirit, the latter of which ought to be an ongoing experience in the life of the Christian. This is not a minor quibbling over words as sadly, the consequences of this confusion is often further confusion and chaos. Seeking and waiting for ecstatic experiences is like trying to use an air pump to pump air into a bottle that is already containing some liquid. The amount of air in the bottle wil remain the same, but there will be a lot of fizz and noises as it is pumped through and bubbles away.
 
-If you are a born-again believer and are asked "Have you been baptized in the Holy Spirit?" by a possibly well-meaning but misinformed charismatic believer, I hope that you are convinced that you can most definitely answer in the positive with a resounding "Yes"!
+On the other hand, the filling of the Spirit is as passive as its command "be filled." If we would keep emptying ourselves of our own willful desires, we would constantly experience the reality of being filled with the Spirit and consequently realize the ability to overcome the sin in our lives.  This would be like pouring out the contents of the bottle. Nothing else then needs to be done, for then the bottle would be automatically filled with the air rushing in.   
+
+However, to conclude, if you are a born-again believer and are asked "Have you been baptized in the Holy Spirit?" by a possibly well-meaning but misinformed charismatic believer, I hope that you are convinced that you can definitely answer in the positive with a resounding "Yes"! May we also progress from there to also be filled with the Spirit constantly.
 
 ### References
 
