@@ -1,6 +1,6 @@
 # Peter's Keys and the Baptism of the Spirit
 
-***Abstract:** The widespread confusion today about the "baptism of the Spirit" and the "filling of the Spirit", often leads to even more confusion. This article delves into the issue through the lens of the keys given to the apostle Peter.* 
+***Abstract:** The seemingly unimportant yet widespread misunderstanding today about the difference between "baptism of the Spirit" and the "filling of the Spirit", often leads to serious confusions. This article dives into the issue through the lens of the keys given to the apostle Peter.* 
 
 ### A trick question?
 
@@ -10,7 +10,7 @@ I soon discovered to my chagrin that what was often implied by their questions w
 
 >And Peter said to them, "Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit. -  Acts 2:38
 
-They would say, look there is an order here. First, the repentance, then the baptism in water, and then the receiving of the gift of the Holy Spirit. For them the gift of the Holy Spirit only meant the speaking in tongues, or some such ecstatic experience, and because I had not been the recipient of such a gift the effectiveness of my repentance and subsequent baptism was suspect to them. 
+They would say, look, there is an order here. First, the repentance, then the baptism in water, and then the receiving of the gift of the Holy Spirit. For them the gift of the Holy Spirit only meant the speaking in tongues, or some such ecstatic experience, and because I had not been the recipient of such a gift the effectiveness of my repentance and subsequent baptism was suspect to them. 
 
 ### But what really is the baptism of the Spirit?
 

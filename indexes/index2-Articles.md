@@ -1,10 +1,11 @@
 ---
 title: All Articles
+path: ../page/gleaned
 ---
 
 # All Articles
 
-[Peter's Keys and the Baptism of the Spirit](../page/gleaned/Peters-Keys.md)
+[Peter's Keys and the Baptism of the Spirit]({{path}}/Peters-Keys.md)
 
 [Peter's Folly, Paul's Difficulty](../page/gleaned/Peters-Folly-Pauls-Difficulty.md)
 
