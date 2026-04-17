@@ -16,11 +16,11 @@ They would say, look, there is an order here. First, the repentance, then the ba
 
 The questions that confronted me led me to examine whether the verse they used is the norm for the salvation of the Christian today? Is the order mentioned, important? Does the Christian today receive the gift of the Holy Spirit only after repentance and water baptism? 
 
-As I explored these questions, I discovered that wrong application and understanding of the context of this verse has given rise to widespread confusions among Christians. These included the ideas of baptismal regeneration and seeking for further ecstatic spiritual experiences as the norm after water baptism. 
+As I explored these questions, I discovered that wrong application and understanding of the context of this verse has given rise to widespread confusions among Christians. These included the ideas such as baptismal regeneration and seeking for ecstatic spiritual experiences as the norm after water baptism. 
 
-What I also discovered was that the key to really understanding this verse, could be found through the keys the Lord gave to Peter.
+What I also discovered was that the key to really understanding this verse, could be found through the "keys" promise the Lord gave to Peter.
 
->I will give you the keys of the kingdom of heaven, and whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven.” Matthew 16:19
+>I will give you the keys of the kingdom of heaven, ...” Matthew 16:19
 
 As this promise indicated and as we shall see, Peter was to be a key player in opening up the gospel message of the kingdom of heaven. 
 
@@ -66,23 +66,19 @@ Later, even as Peter preached in the house that was filled with Cornelius' relat
 
 > While Peter was still saying these things, the Holy Spirit fell on all who heard the word. And the believers from among the circumcised who had come with Peter were amazed, because the gift of the Holy Spirit was poured out even on the Gentiles. For they were hearing them speaking in tongues and extolling God. Then Peter declared, “Can anyone withhold water for baptizing these people, who have received the Holy Spirit just as we have?” - Acts 10:44-47
 
-### Three different manifestations, just one baptism
+### Three different manifestations
 
-Undoubtedly, none of the three accounts above of the pouring out of the Holy Spirit are meant to be used in isolation as a perfect pattern for the church today. For if they were, which pattern would be followed? 
+Undoubtedly, the three accounts above of the pouring out of the Holy Spirit do not follow a consistent pattern. In the case of the Jews, the order was water baptism first --- with repentance and belief --- and then the filling of the Holy Spirit. Also, unlike the initial outpouring, there is no mention of speaking in other tongues. In the case of the Samaritans no repentance is mentioned, first it was belief, then baptism,and later the receiving of the Holy Spirit. Again thereis no mention of tongues. Lastly, in the case of the gentiles, again no repentance is specifically mentioned, belief and receiving of the Spirit happened at the same time, and only later were these new converts baptized in water. In this case, tongues are mentioned. So which one of them is meant to be used as a perfect pattern for the church today? 
 
-In the case of the Jews, the order was water baptism first -- with repentance and belief -- and then the filling of the Holy Spirit. In the case of the Samaritans no repentance is mentioned, first it was belief, then baptism,and later the receiving of the Holy Spirit. Lastly, in the case of the gentiles, again no repentance is specifically mentioned, belief and receiving of the Spirit happened at the same time, and only later were these new converts baptized in water.
-
-Paul later, writing to the Corinthian believers, reminded then that there was only one baptism.  
+It is important to note that there is only one body. Paul writing to the Corinthian believers, reminded them: 
 
 > For in one Spirit we were all baptized into one body — Jews or Greeks, slaves or free — and all were made to drink of one Spirit. - 1 Corinthians 12:13 (also see Ephesians 4:4)
 
-The one body of the church was baptized only once. Consider an example. If you baptize a seed, you have also baptized the entire tree that emerges from it only later as it adds new cells to itself and grows. Similarly, the infant church consisting of the first 120 disciples was baptized only once on the inaugural day of Pentecost. As the Jews, Samritans, and Gentiles were subsequently brought in, they too experienced being added to the church with a manifestation each time of the pouring out of the Spirit. These manifestations served to attest to the sameness of the experience as well as the reality of this great change in the as-then, not-fully-understod plan of God to bring both Jew and Gentile into one body of believers.
-
-Of note also, in this age of grace, Israel as a nation having rejected the offer of the kingdom, has been temporarily and partially set aside until the fullness of the gentiles will be brought in (Romans 11:25b). Thus the pattern of Cornelius' house most closely resembles the case today. 
-
-Countless numbers, mostly gentiles as well as some jews, have come in to the church down through the ages. We can conclude from what Paul wrote in his letter to the Ephesians, that we too have experienced the the work of the Holy Spirit at the time of belief and conversion.
+If there is only one body it can be baptized only once. Consider an example. If you baptize a seed, you have also baptized the entire tree that emerges from it only later as it adds new cells to itself and grows. Similarly, the infant church consisting of the first 120 disciples was baptized only once on the inaugural day of Pentecost. As the Jews, Samritans, and Gentiles were subsequently brought in, they too experienced being added to the church with a manifestation of the pouring out of the Spirit. What did those manifestations signify if they wasn't fresh baptisms? We can conclude from what Paul wrote in his letter to the Ephesians, that they experienced being sealed with the Holy Spirit at the time of belief and conversion.
 
 >In him you also, when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit. - Ephesians 1:13 (also see Romans 8:9)
+
+As the early church continued to grow, countless numbers, mostly gentiles as well as comparably few jews, have come in to the church down through the ages. Of note, in this age of grace, Israel as a nation having rejected the offer of the kingdom, has been temporarily and partially set aside until the fullness of the gentiles will be brought in (Romans 11:25b). Thus the pattern of Cornelius' house most closely resembles the case today with the sealing of the believer by the Spirit at the very moment of conversion. However, the speaking in tongues that happened at that time does not need to occur today, because tongues are a sign to help the Jews to believe (1 Cor 14:21), just like they helped the Jews who had accompanied Peter to Cornelius' house to believe that it was truly God working among the gentiles.
 
 ### The bottom line
 
@@ -95,6 +91,6 @@ If you are a born-again believer and are asked "Have you been baptized in the Ho
 1. De Haan, M. R. _Pentecost and After_. 1975th edn, Zondervan Publishing House.
 
 ---
-*Published: 16 April, 2026; short link: [https://c-txt.github.io/p/260416](https://c-txt.github.io/p/260416)*
+*Published: 16 April, 2026; Updated with corrections: 17 April, 2026; short url: https://c-txt.github.io/p/260416*
 
 #Holy-Spirit #idea-study
