@@ -2,8 +2,6 @@
 layout: home
 ---
 
-## Subscribe
-
 <html>
 <div id="zf_div_T6Algncbx189MMR8wz7NsXp6O7GS0CInhoOQD4E-CtI">
 </div>
