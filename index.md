@@ -1,26 +1,12 @@
----
-layout: home
----
+#### Folders:
+| [_includes](./_includes) | 
+| [_layouts](./_layouts) | 
+| [indexes](./indexes) | 
+| [p](./p) | 
+| [page](./page) | 
+| [pagefind](./pagefind) | 
+--------
+#### Files:
+[404](./404)
 
-<html>
-
-<link href="./pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="./pagefind/pagefind-ui.js"></script>
-
-<div id="search"></div>
-<script>
-window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
-    });
-</script>
-</html>
-
-<hr>
-
-# Navigate to:
-
-|   |   |
-|---|---|
-|  **[Gleanings](./indexes/index2-Articles.html)** |  Biblical writings  |
-|  **[Grammar](./indexes/index2-Grammar.html)** |  Koine Greek Grammar Resources |
-|  **[Resource Links](./indexes/index2-Resources.html)** |  Links to/Info about Koine Greek Resources |
+--------
