@@ -1,5 +1,4 @@
 #### Folders:
-| [gleaned](./gleaned) | 
 --------
 #### Files:
 [p-Koine-Resources-Books](./p-Koine-Resources-Books)
@@ -9,7 +8,5 @@
 [p-Koine-Resources-Online](./p-Koine-Resources-Online)
 
 [p-Koine-Resources-Software](./p-Koine-Resources-Software)
-
-[p-paradigms](./p-paradigms)
 
 --------
