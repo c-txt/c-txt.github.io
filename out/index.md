@@ -2,10 +2,9 @@
 #### Folders:
 | [gleaned](./gleaned) | 
 | [grammar](./grammar) | 
-| [out](./out) | 
 | [resources](./resources) | 
 --------
 #### Files:
-[404](./404)
+[*](./*)
 
 --------
