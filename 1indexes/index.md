@@ -1,7 +1,11 @@
-[Up one folder](../)
-#### Folders:
+
+
+### Current folder: 1indexes
+
+[Up to Parent folder](../)
+#### Sub-folders in folder:
 --------
-#### Files:
+#### Files in folder:
 [index2-Articles](./index2-Articles)
 
 [index2-Grammar](./index2-Grammar)

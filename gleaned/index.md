@@ -1,7 +1,11 @@
-[Up one folder](../)
-#### Folders:
+
+
+### Current folder: gleaned
+
+[Up to Parent folder](../)
+#### Sub-folders in folder:
 --------
-#### Files:
+#### Files in folder:
 [A-Command-to-Flee](./A-Command-to-Flee)
 
 [Peters-Folly-Pauls-Difficulty](./Peters-Folly-Pauls-Difficulty)

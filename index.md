@@ -1,11 +1,14 @@
-[Up one folder](../)
-#### Folders:
+
+
+### Current folder: c-txt.github.io
+
+[Up to Parent folder](../)
+#### Sub-folders in folder:
 | [gleaned](./gleaned) | 
 | [grammar](./grammar) | 
-| [out](./out) | 
 | [resources](./resources) | 
 --------
-#### Files:
+#### Files in folder:
 [404](./404)
 
 --------

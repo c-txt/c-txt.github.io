@@ -1,7 +1,11 @@
-[Up one folder](../)
-#### Folders:
+
+
+### Current folder: resources
+
+[Up to Parent folder](../)
+#### Sub-folders in folder:
 --------
-#### Files:
+#### Files in folder:
 [p-Koine-Resources-Books](./p-Koine-Resources-Books)
 
 [p-Koine-Resources-Motivation](./p-Koine-Resources-Motivation)

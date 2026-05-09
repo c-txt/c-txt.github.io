@@ -1,7 +1,11 @@
-[Up one folder](../)
-#### Folders:
+
+
+### Current folder: _includes
+
+[Up to Parent folder](../)
+#### Sub-folders in folder:
 --------
-#### Files:
+#### Files in folder:
 [*](./*)
 
 --------
