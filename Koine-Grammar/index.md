@@ -10,6 +10,6 @@
 | [04-Participles](./04-Participles) | 
 --------
 #### Files in folder:
-[navigation-template](./navigation-template)
+[Koine-Grammar-08MAY26](./Koine-Grammar-08MAY26)
 
 --------

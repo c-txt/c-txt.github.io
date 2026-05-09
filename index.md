@@ -2,8 +2,8 @@
 
 ### Current folder: c-txt.github.io
 
-[Up to Parent folder](../)
 #### Sub-folders in folder:
+| [Koine-Grammar](./Koine-Grammar) | 
 | [gleaned](./gleaned) | 
 | [grammar](./grammar) | 
 | [resources](./resources) | 
