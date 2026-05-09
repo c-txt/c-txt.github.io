@@ -10,3 +10,7 @@ find . -name 'ghp-nav-cj.sh' -execdir ./ghp-nav-cj.sh \;
 # creates the index files in all the sub-folders
 find . -name ghp-nav-cj.sh -type f -delete
 # deletes all the ghp-nav-cj.sh files in all the sub-folders in the tree
+sed -iE '/Up to Parent folder/d' index.md
+# removes the line containing the above pattern in the index file in the root folder
+rm index.mdE
+# deletes the backup file created by the above sed command

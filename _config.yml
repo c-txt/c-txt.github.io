@@ -1,14 +1,14 @@
 ---
-name: Word
-title: Word
+name: c-txt
+title: c-txt
 ---
 markdown:kramdown
 
 # SEO Stuff
-author: Charlie Joseph
-description: Gleanings from The Word
+author: c
+description: See the text
 lang: en
 locale: en_GB
-url: "https://antleo.com/Word"
+url: "https://c-txt.github.io/"
 baseurl: ""
 
