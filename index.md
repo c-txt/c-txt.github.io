@@ -1,5 +1,4 @@
 
-[Up to Parent folder](../)
 --------
 ### Current folder: c-txt.github.io
 --------
