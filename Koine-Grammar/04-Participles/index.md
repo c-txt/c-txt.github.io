@@ -4,8 +4,8 @@
 ### Current folder: 04-Participles
 --------
 #### Sub-folders in folder:
---------
-#### Files in folder:
+
+--------#### Files in folder:
 [0400-participles-overview](./0400-participles-overview)
 
 [0401-PaP](./0401-PaP)

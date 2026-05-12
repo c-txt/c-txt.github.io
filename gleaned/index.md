@@ -4,8 +4,8 @@
 ### Current folder: gleaned
 --------
 #### Sub-folders in folder:
---------
-#### Files in folder:
+
+--------#### Files in folder:
 [A-Command-to-Flee](./A-Command-to-Flee)
 
 [Peters-Folly-Pauls-Difficulty](./Peters-Folly-Pauls-Difficulty)
