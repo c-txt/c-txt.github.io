@@ -1,8 +1,8 @@
 
-
-### Current folder: 04-Participles
-
 [Up to Parent folder](../)
+--------
+### Current folder: 04-Participles
+--------
 #### Sub-folders in folder:
 --------
 #### Files in folder:
@@ -14,7 +14,6 @@
 
 [0403-PpP](./0403-PpP)
 
-[0404-AaP-1](./0404-AaP-1)
 
 [0405-AmP-1](./0405-AmP-1)
 
@@ -25,5 +24,6 @@
 [0408-AmP-2](./0408-AmP-2)
 
 [0409-ApP-2](./0409-ApP-2)
+
 
 --------

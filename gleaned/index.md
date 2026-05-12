@@ -1,8 +1,8 @@
 
-
-### Current folder: gleaned
-
 [Up to Parent folder](../)
+--------
+### Current folder: gleaned
+--------
 #### Sub-folders in folder:
 --------
 #### Files in folder:
@@ -15,5 +15,6 @@
 [The-Friends-and-Foes-of-Jesus](./The-Friends-and-Foes-of-Jesus)
 
 [Theleema](./Theleema)
+
 
 --------

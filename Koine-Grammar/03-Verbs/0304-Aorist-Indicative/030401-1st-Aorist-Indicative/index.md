@@ -1,8 +1,8 @@
 
-
-### Current folder: 030401-1st-Aorist-Indicative
-
 [Up to Parent folder](../)
+--------
+### Current folder: 030401-1st-Aorist-Indicative
+--------
 #### Sub-folders in folder:
 --------
 #### Files in folder:
@@ -13,5 +13,6 @@
 [03040103-ΑmI-1](./03040103-ΑmI-1)
 
 [03040104-ApI-1](./03040104-ApI-1)
+
 
 --------

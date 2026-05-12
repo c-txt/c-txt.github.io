@@ -1,13 +1,13 @@
 
-
-### Current folder: grammar
-
 [Up to Parent folder](../)
+--------
+### Current folder: grammar
+--------
 #### Sub-folders in folder:
 | [files](./files) | 
 --------
 #### Files in folder:
-[index2-Grammar](./index2-Grammar)
+
 
 [p-paradigms](./p-paradigms)
 
