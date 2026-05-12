@@ -4,8 +4,8 @@
 ### Current folder: resources
 --------
 #### Sub-folders in folder:
-
---------#### Files in folder:
+--------
+#### Files in folder:
 
 [p-Koine-Resources-Books](./p-Koine-Resources-Books)
 

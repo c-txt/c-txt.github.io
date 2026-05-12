@@ -8,8 +8,8 @@
 | [gleaned](./gleaned) | 
 | [grammar](./grammar) | 
 | [resources](./resources) | 
-
---------#### Files in folder:
+--------
+#### Files in folder:
 
 
 --------
