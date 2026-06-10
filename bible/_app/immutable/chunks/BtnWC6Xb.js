@@ -1,1 +1,0 @@
-import{$ as f,z as a,a0 as b}from"./BxUdUJ2E.js";function g(r){let t;const c=b(e=>{let u=!1;const s=r.subscribe(i=>{t=i,u&&e()});return u=!0,s});function n(){return f()?(c(),t):a(r)}return"set"in r?{get current(){return n()},set current(e){r.set(e)}}:{get current(){return n()}}}export{g as f};
