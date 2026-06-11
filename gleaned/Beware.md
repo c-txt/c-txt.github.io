@@ -38,8 +38,15 @@ There are eight things he wanted them, and us, to be careful about:
 
 > “So be careful, or your hearts will be loaded down with carousing, drunkenness, and cares of this life, and that day will come on you suddenly. " - Luke 21:34
 
-So, are we careful? Let us seek to be!
+# So...
+
+Are we careful? Let us seek to be!
 
 ## References:
 
 - All scripture quotations from the WEB version of The Holy Bible
+
+---
+*Published: 11 June, 2026; Updated with corrections: None; 
+
+#koine-greek #word-study
