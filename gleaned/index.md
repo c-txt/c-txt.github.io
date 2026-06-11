@@ -9,6 +9,8 @@
 #### Files in folder:
 [A-Command-to-Flee](./A-Command-to-Flee)
 
+[Beware](./Beware)
+
 [Peters-Folly-Pauls-Difficulty](./Peters-Folly-Pauls-Difficulty)
 
 [Peters-Keys-and-the-Baptism-of-the-Spirit](./Peters-Keys-and-the-Baptism-of-the-Spirit)
