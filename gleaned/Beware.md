@@ -8,19 +8,19 @@ There are eight things he wanted them, and us, to be careful about:
 
 1. Practicing righteousness before others:
 
-    > Be careful that you don’t do your charitable giving before men, to be seen by them, or else you have no reward from your Father who is in heaven - Mathew 6:1
+    > Be careful that you don’t do your charitable giving before men, to be seen by them, or else you have no reward from your Father who is in heaven - Matthew 6:1
 
 2. False prophets in sheep's clothing:
 
-    > Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravening wolves. - Mathew 
+    > Beware of false prophets, who come to you in sheep’s clothing, but inwardly are ravening wolves. - Matthew 7:15
 
 3. Men, who persecute followers of the light:
 
-    > But beware of men, for they will deliver you up to councils, and in their synagogues they will scourge you. 
+    > But beware of men, for they will deliver you up to councils, and in their synagogues they will scourge you. - Matthew 10:17
 
 4. The teaching of the Pharisees and the Sadducees, i.e. the legalists:
 
-    >  Jesus said to them, “Take heed and beware of the yeast of the Pharisees and Sadducees.” - Mathew 16:6; 16:11,12
+    >  Jesus said to them, “Take heed and beware of the yeast of the Pharisees and Sadducees.” - Matthew 16:6; 16:11,12
 
 5. The leaven of the Pharisees, i.e. hypocrisy:
 
