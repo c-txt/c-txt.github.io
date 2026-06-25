@@ -7,6 +7,7 @@
 | [gleaned](./gleaned) | 
 | [grammar](./grammar) | 
 | [resources](./resources) | 
+| [shorts](./shorts) | 
 
 --------
 #### Files in folder:
