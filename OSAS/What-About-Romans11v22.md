@@ -50,7 +50,7 @@ My point of quoting all these verses is only to show that the use of the word "o
 
 > if thou shalt abide in goodness, *since thou also wilt be cut away.*
 
-If the word "since" is Paul's original ntent, it logically just introduces what he will say in the following verses about the "fullness of the gentiles":
+If the word "since" is Paul's original intent, it logically just introduces what he will say in the following verses about the "fullness of the gentiles":
 
 > a partial hardening has happened to Israel, until the fullness of the Gentiles has come in - from Romans 11:25
 
