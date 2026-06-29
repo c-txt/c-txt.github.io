@@ -4,6 +4,7 @@
 --------
 #### Sub-folders in folder:
 | [Koine-Grammar](./Koine-Grammar) | 
+| [OSAS](./OSAS) | 
 | [gleaned](./gleaned) | 
 | [grammar](./grammar) | 
 | [resources](./resources) | 
