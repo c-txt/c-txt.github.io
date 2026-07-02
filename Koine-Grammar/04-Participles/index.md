@@ -1,30 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+ <meta name="Author" content="Made by 'tree'">
+ <meta name="GENERATOR" content="tree v2.3.2 © 1996 - 2026 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro">
+ <title>Directory Tree</title>
+ <style type="text/css">
+  BODY { font-family : monospace, sans-serif;  color: black;}
+  P { font-family : monospace, sans-serif; color: black; margin:0px; padding: 0px;}
+  A:visited { text-decoration : none; margin : 0px; padding : 0px;}
+  A:link    { text-decoration : none; margin : 0px; padding : 0px;}
+  A:hover   { text-decoration: underline; background-color : yellow; margin : 0px; padding : 0px;}
+  A:active  { margin : 0px; padding : 0px;}
+  .VERSION { font-size: small; font-family : arial, sans-serif; }
+  .NORM  { color: black;  }
+  .FIFO  { color: purple; }
+  .CHAR  { color: yellow; }
+  .DIR   { color: blue;   }
+  .BLOCK { color: yellow; }
+  .LINK  { color: aqua;   }
+  .SOCK  { color: fuchsia;}
+  .EXEC  { color: green;  }
+ </style>
+</head>
+<body>
+	<h1>Directory Tree</h1><p>
+	<a href="././">.</a><br>
+	├──&nbsp;<a href="././0400-participles-overview.md">0400-participles-overview.md</a><br>
+	├──&nbsp;<a href="././0401-PaP.md">0401-PaP.md</a><br>
+	├──&nbsp;<a href="././0402-PmP.md">0402-PmP.md</a><br>
+	├──&nbsp;<a href="././0403-PpP.md">0403-PpP.md</a><br>
+	├──&nbsp;<a href="././0404-AaP-1.md">0404-AaP-1.md</a><br>
+	├──&nbsp;<a href="././0405-AmP-1.md">0405-AmP-1.md</a><br>
+	├──&nbsp;<a href="././0406-ApP-1.md">0406-ApP-1.md</a><br>
+	├──&nbsp;<a href="././0407-AaP-2.md">0407-AaP-2.md</a><br>
+	├──&nbsp;<a href="././0408-AmP-2.md">0408-AmP-2.md</a><br>
+	├──&nbsp;<a href="././0409-ApP-2.md">0409-ApP-2.md</a><br>
+	└──&nbsp;<a href="././index.md">index.md</a><br>
+<br><br><p>
 
-[Up to Parent folder](../)
---------
-### Current folder: 04-Participles
---------
-#### Sub-folders in folder:
+1 directory, 11 files
 
---------
-#### Files in folder:
-[0400-participles-overview](./0400-participles-overview)
-
-[0401-PaP](./0401-PaP)
-
-[0402-PmP](./0402-PmP)
-
-[0403-PpP](./0403-PpP)
-
-
-[0405-AmP-1](./0405-AmP-1)
-
-[0406-ApP-1](./0406-ApP-1)
-
-[0407-AaP-2](./0407-AaP-2)
-
-[0408-AmP-2](./0408-AmP-2)
-
-[0409-ApP-2](./0409-ApP-2)
-
-
---------
+</p>
+	<hr>
+	<p class="VERSION">
+		 tree v2.3.2 © 1996 - 2026 by Steve Baker and Thomas Moore <br>
+		 HTML output hacked and copyleft © 1998 by Francesc Rocher <br>
+		 JSON output hacked and copyleft © 2014 by Florian Sesser <br>
+		 Charsets / OS/2 support © 2001 by Kyosuke Tokoro
+	</p>
+</body>
+</html>
