@@ -1,3 +1,4 @@
+---
 # Minimizing The Word
 
 Our understanding of the crucial importance of words in the Word of God, determines how we read it and understand it. 
