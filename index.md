@@ -3,15 +3,12 @@
 ### Current folder: c-txt.github.io
 --------
 #### Sub-folders in folder:
-| [Koine-Grammar](./Koine-Grammar) | 
-| [OSAS](./OSAS) | 
-| [gleaned](./gleaned) | 
-| [grammar](./grammar) | 
-| [resources](./resources) | 
-| [shorts](./shorts) | 
 
 --------
 #### Files in folder:
 
+[p-Principle-Parts-of-Verbs](./p-Principle-Parts-of-Verbs)
+
+[p-Vocab.html](./p-Vocab.html)
 
 --------
