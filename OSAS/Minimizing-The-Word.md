@@ -49,7 +49,7 @@ To avoid this destruction, let us rather follow the example of Paul, who not onl
 
 > Now the promises were made to Abraham and to his offspring. It does not say, “And to offsprings,” referring to many, but referring to one, “And to your offspring,” who is Christ. - Galatians 3:16 (ESV)
 
-Paul knew that the difference of even one letter "s" could made a world of a difference to his theology, to his understanding of the truth. May we too be as careful as him when it comes to deciphering the truth with our dark, clouded, natural minds. For if we are careful, and if we remain in Him and in His words, we will know the truth and the truth will set us free. Amen!
+Paul knew that the difference of even one letter "s" could made a world of a difference to his understanding of the mind of God, to his understanding of the truth. May we too be as careful as him when it comes to deciphering the truth with our dark, clouded, natural minds. For if we are careful, and if we remain in Him and in His words, we will know the truth and the truth will set us free. Amen!
 
 ---
 Published: 2nd July, 2026; Edited: N/A
