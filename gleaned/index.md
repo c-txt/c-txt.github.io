@@ -1,49 +1,23 @@
-<!DOCTYPE html>
-<html>
-<head>
- <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
- <meta name="Author" content="Made by 'tree'">
- <meta name="GENERATOR" content="tree v2.3.2 © 1996 - 2026 by Steve Baker, Thomas Moore, Francesc Rocher, Florian Sesser, Kyosuke Tokoro">
- <title>Directory Tree</title>
- <style type="text/css">
-  BODY { font-family : monospace, sans-serif;  color: black;}
-  P { font-family : monospace, sans-serif; color: black; margin:0px; padding: 0px;}
-  A:visited { text-decoration : none; margin : 0px; padding : 0px;}
-  A:link    { text-decoration : none; margin : 0px; padding : 0px;}
-  A:hover   { text-decoration: underline; background-color : yellow; margin : 0px; padding : 0px;}
-  A:active  { margin : 0px; padding : 0px;}
-  .VERSION { font-size: small; font-family : arial, sans-serif; }
-  .NORM  { color: black;  }
-  .FIFO  { color: purple; }
-  .CHAR  { color: yellow; }
-  .DIR   { color: blue;   }
-  .BLOCK { color: yellow; }
-  .LINK  { color: aqua;   }
-  .SOCK  { color: fuchsia;}
-  .EXEC  { color: green;  }
- </style>
-</head>
-<body>
-	<h1>Directory Tree</h1><p>
-	<a href="././">.</a><br>
-	├──&nbsp;<a href="././A-Command-to-Flee.md">A-Command-to-Flee.md</a><br>
-	├──&nbsp;<a href="././Beware.md">Beware.md</a><br>
-	├──&nbsp;<a href="././Peters-Folly-Pauls-Difficulty.md">Peters-Folly-Pauls-Difficulty.md</a><br>
-	├──&nbsp;<a href="././Peters-Keys-and-the-Baptism-of-the-Spirit.md">Peters-Keys-and-the-Baptism-of-the-Spirit.md</a><br>
-	├──&nbsp;<a href="././The-Friends-and-Foes-of-Jesus.md">The-Friends-and-Foes-of-Jesus.md</a><br>
-	├──&nbsp;<a href="././Theleema.md">Theleema.md</a><br>
-	└──&nbsp;<a href="././index.md">index.md</a><br>
-<br><br><p>
 
-1 directory, 7 files
+[Up to Parent folder](../)
+--------
+### Current folder: gleaned
+--------
+#### Sub-folders in folder:
 
-</p>
-	<hr>
-	<p class="VERSION">
-		 tree v2.3.2 © 1996 - 2026 by Steve Baker and Thomas Moore <br>
-		 HTML output hacked and copyleft © 1998 by Francesc Rocher <br>
-		 JSON output hacked and copyleft © 2014 by Florian Sesser <br>
-		 Charsets / OS/2 support © 2001 by Kyosuke Tokoro
-	</p>
-</body>
-</html>
+--------
+#### Files in folder:
+[A-Command-to-Flee](./A-Command-to-Flee)
+
+[Beware](./Beware)
+
+[Peters-Folly-Pauls-Difficulty](./Peters-Folly-Pauls-Difficulty)
+
+[Peters-Keys-and-the-Baptism-of-the-Spirit](./Peters-Keys-and-the-Baptism-of-the-Spirit)
+
+[The-Friends-and-Foes-of-Jesus](./The-Friends-and-Foes-of-Jesus)
+
+[Theleema](./Theleema)
+
+
+--------
