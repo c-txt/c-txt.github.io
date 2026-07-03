@@ -43,7 +43,7 @@ We too in our old natures, are like the Jews, children of the devil. And that is
 
 May we heed the Lord's advice to remain, and remain long, in His words to us, as found in the Holy Scriptures. Because if we do, the truth will set us free. Let us not be like the Jews, who twisted His promise right to His face, just as even today there are many twisting the Word:
 
-> Regard the patience of our Lord as salvation; even as our beloved brother Paul also, according to the wisdom given to him, wrote to you, as also in all of his letters, speaking in them of these things. In those, *there are some things that are hard to understand, which the ignorant and unsettled twist, as they also do to the other Scriptures, to their own destruction*. - 2 Peter 3: 15
+> Regard the patience of our Lord as salvation; even as our beloved brother Paul also, according to the wisdom given to him, wrote to you, as also in all of his letters, speaking in them of these things. In those, **there are some things that are hard to understand, which the ignorant and unsettled twist, as they also do to the other Scriptures, to their own destruction**. - 2 Peter 3: 15
 
 To avoid this destruction, let us rather follow the example of Paul, who not only paid close attention to the Word but even to the letters in the Word:
 
