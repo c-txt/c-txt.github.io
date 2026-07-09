@@ -2,7 +2,7 @@
 
 > "Unless you repent, you will likewise perish." - Luke 13:5 (Web)
 
-Proponents of the Once Saved Always Striving (OSAS) gospel sometimes use this verse to say to the proponents of the Once Saved Always Saved (OSAS) gospel, yes in John 3:16, the Lord said believe and you will have eternal life, but look, here it clearly indicates that repentance is necessary.
+Proponents of the Once Saved Always Striving (OSAS) gospel sometimes use this verse to say to the proponents of the Once Saved Always Saved (OSAS) gospel, "yes in John 3:16, the Lord said believe and you will have eternal life, but look, here it clearly indicates that repentance is necessary." But does it really indicate that?
 
 ## Three important questions
 
