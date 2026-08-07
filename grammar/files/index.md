@@ -8,10 +8,10 @@
 --------
 #### Files in folder:
 
+[p-paradigms](./p-paradigms)
+
 [p-Principle-Parts-of-Verbs](./p-Principle-Parts-of-Verbs)
 
 [p-Vocab.html](./p-Vocab.html)
-
-[p-paradigms](./p-paradigms)
 
 --------

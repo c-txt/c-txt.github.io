@@ -11,7 +11,7 @@
 
 --------
 #### Files in folder:
-[Koine-Grammar-08MAY26-link](./Koine-Grammar-08MAY26-link)
 
+[Koine-Grammar-08MAY26-link](./Koine-Grammar-08MAY26-link)
 
 --------

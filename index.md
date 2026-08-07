@@ -3,10 +3,10 @@
 ### Current folder: c-txt.github.io
 --------
 #### Sub-folders in folder:
-| [Koine-Grammar](./Koine-Grammar) | 
-| [OSAS](./OSAS) | 
 | [gleaned](./gleaned) | 
 | [grammar](./grammar) | 
+| [Koine-Grammar](./Koine-Grammar) | 
+| [OSAS](./OSAS) | 
 | [resources](./resources) | 
 | [shorts](./shorts) | 
 
