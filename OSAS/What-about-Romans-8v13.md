@@ -32,7 +32,7 @@ In a nutshell, this case goes to show that even in the case of Christians living
 
 Even the larger context of the Romans 8:13 verse, makes it very clear that Paul is not talking about loss of salvation. Let's read from the beginning of chapter 8 for the context:
 
- There is therefore now no condemnation to those who are in Christ Jesus, who don’t walk according to the flesh, but according to the Spirit. - Romans 8:1
+> There is therefore now no condemnation to those who are in Christ Jesus, who don’t walk according to the flesh, but according to the Spirit. - Romans 8:1
 
 But wait. There is a "therefore" here which leads us to look back even further to Chapter 7 for the context. So what does the previous few verses say? The answer is kind of shocking. The great apostle Paul acknowledges and confesses that he sees even in himself a great struggle with sin.
 
@@ -70,9 +70,9 @@ The overwhelming message of the Bible is that of free and full grace. Take Adam.
 
 ### References:
 
-The meaning of ἀποθνήσκω in the Liddell, Scott, Jones Ancient Greek Lexicon (LSJ): https://apps.perseids.org/lsj/%E1%BC%80%CF%80%CE%BF%CE%B8%CE%BD%E1%BD%B5%CF%83%CE%BA%CF%89
+- [The meaning of ἀποθνήσκω in the Liddell, Scott, Jones Ancient Greek Lexicon (LSJ)](https://apps.perseids.org/lsj/%E1%BC%80%CF%80%CE%BF%CE%B8%CE%BD%E1%BD%B5%CF%83%CE%BA%CF%89)
 
-List of verses that use ἀποθνήσκω:
+- List of verses that use ἀποθνήσκω:
 Matthew 8:32; Matthew 9:24; Matthew 22:24; Matthew 22:27; Matthew 26:35; Mat 26:52; Mark 5:35; Mark 5:39; Mar 9:26; Mar 12:19; Mar 12:20; Mar 12:21; Mar 12:22; Mar 15:44; Luk 8:42; Luk 8:52; Luk 8:53; Luk 16:22; Luk 20:28; Luk 20:29; Luk 20:30; Luk 20:31; Luk 20:32; Luk 20:36; Joh 4:47; Joh 4:49; Joh 6:49; @ Joh 6:50; Joh 6:58; Joh 8:21; Joh 8:24; Joh 8:52; Joh 8:53; Joh 11:14; Joh 11:16; Joh 11:25; Joh 11:26; Joh 11:32; Joh 11:37; Joh 11:50; Joh 11:51; @ Joh 12:24; Joh 12:33; Joh 18:32; Joh 19:7; Joh 21:23; Act 7:4; Act 9:37; Act 21:13; Act 25:11; Rom 5:6; Rom 5:7; Rom 5:8; Rom 5:15; @ Rom 6:2; Rom 6:7; Rom 6:8; Rom 6:9; Rom 6:10; Rom 7:2; Rom 7:3; Rom 7:6; Rom 7:9; Rom 8:13; Rom 8:34; Rom 14:7; Rom 14:8; Rom 14:9; Rom 14:15; 1Cor 8:11; 1Cor 9:15; 1Cor 15:3; 1Cor 15:22; 1Cor 15:31; 1Cor 15:32; 1Cor 15:36; 2Cor 5:14; 2Cor 5:15; 2Cor 6:9; Gal 2:19; Gal 2:21; Phili 1:21; Col 2:20; Col 3:3; 1Th 4:14; 1Th 5:10; Heb 7:8; Heb 9:27; Heb 10:28; Heb 11:4; Heb 11:13; Heb 11:21; Heb 11:37; @ Jude 1:12; Rev 8:9; Rev 8:11; Rev 9:6; Rev 14:13; Rev 16:3.
  
 ------
