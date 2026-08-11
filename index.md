@@ -4,7 +4,7 @@ layout: default
 
 Welcome to c-txt.github.io, a site devoted to biblical content. Click one of the links below to browse articles, or use the search button on the bottom navigation to search for key words.
 
-## Gleanings
+## [Gleanings](./gleaned)
 Some articles gleaned from the Word of God, i.e. The Holy Bible
 [Read >>](./gleaned)
 
