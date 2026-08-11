@@ -15,7 +15,7 @@ He had already spoken about this kind of laying down of life in John 10:11 when 
 
 > v14: You are my friends if you do what I command you.
 
-It is amazing that He did not ask them to lay down their lives for Him as a route to His friendship. What He asked was radically different and extremely other-centred. A disciple would become His friend only if he genuinely loved the other disciples to the extent of being willing to lay down his life for them. This command required them to raise their understanding of the love in friendship from mutual affection (grk:φιλέω:fileo) to that of the unconditional, self-sacrificial love (grk: ἀγάπη :agapē) that He himself would exhibit on the cross. 
+It is amazing that He did not ask them to lay down their lives for Him as a route to His friendship. That would have been typical of any earthly king who demands subservience to himself first of all. Rather, what the Lord asked was radically different and extremely other-centred. A disciple could become His friend only if he genuinely loved the other disciples to the extent of being willing to lay down his life for them. This command required them to raise their understanding of the love in friendship from mutual affection (grk:φιλέω:fileo) to that of the unconditional, self-sacrificial love (grk: ἀγάπη :agapē) that He himself would exhibit on the cross. 
 
 Just as one cannot be friends with one completely opposed to one's core beliefs, the completely self-less Lord could not be friends with those who only understood and desired absolutely self-centred friendships. It would have been an undoubted privilege for any of the disciples to be called a friend of the wise teacher, the great healer, the amazing worker of amazing miracles. But what must have been their reaction when the disciples heard this startling criteria? For to love another stinking fisherman knowing all his faults and weaknesses, to the extent of laying down one's life for him could not imaginably have offered any benefits at all.
 
@@ -54,5 +54,5 @@ But, it is also instructive to ask ourselves, if the Lord were to return today, 
 These are sobering questions, and ones we would do well to consider. 
 
 
-*Published August 2024; Updated: December 25, 2024*
+*Published August 2024; Updated: August 11, 2026*
 #word-study
