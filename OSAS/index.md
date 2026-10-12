@@ -1,4 +1,4 @@
-# The OSAS Debate: Once Saved, Always Saved or ALways Striving?
+# The OSAS Debate: Once Saved, Always Saved or Always Striving?
 
 This series examines several verses in depth in an attempt to understand if a believer can really lose salvation?
 
@@ -10,6 +10,6 @@ This series examines several verses in depth in an attempt to understand if a be
 
 - [What-About-Romans11v22](./What-About-Romans11v22)
 
-- [How-about-Hebrews-1v1](./How-about-Hebrews-1v1.md)
+- [How-about-Hebrews-2v1-3](./How-about-Hebrews-2v1-3.md)
 
 --------
