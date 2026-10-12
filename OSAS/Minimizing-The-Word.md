@@ -51,6 +51,8 @@ To avoid this destruction, let us rather follow the example of Paul, who not onl
 
 Paul knew that the difference of even one letter "s" could made a world of a difference to his understanding of the mind of God, to his understanding of the truth. May we too be as careful as him when it comes to deciphering the truth with our dark, clouded, natural minds. For if we are careful, and if we remain in Him and in His words, we will know the truth and the truth will set us free. Amen!
 
+[Return to the #OSAS index of articles](./index.md)
+
 ---
 Published: 2nd July, 2026; Edited: N/A
 #c-note c260702-1940
