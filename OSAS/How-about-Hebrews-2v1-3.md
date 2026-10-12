@@ -8,7 +8,7 @@
   
 The book of Hebrews is packed with similar warnings which when read apart from their overarching context evoke the fear of the loss of salvation. 
 
-At first glance, these verses seem to say that if a believer is not being diligent and neglects his or her salvation, he or she will not escape. But the question to ask here is: escape what? What will he or she not escape? Ask any preacher who holds to a doctrine that says salvation can be lost and he will say, these verses clearly say that a negligent believer will not escape the fires of hell. But is that what these vereses are really saying? 
+At first glance, these verses seem to say that if a believer is not being diligent and neglects his or her salvation, he or she will not escape. But the question to ask here is: escape what? What will he or she not escape? Ask any preacher who holds to a doctrine that says salvation can be lost and he will say, these verses clearly say that a negligent believer will not escape the fires of hell. But is that what these verses are really saying? 
 
 The context makes the meaning abundantly clear. The preceding text speaks about the penalty of disobeying the law, where every transgression received a just penalty. Applying the simple rule of parallelism, in grammar, these verses are saying that when a believer neglects his or her salvation, in other words, sanctification, by drifting away from the teachings, he or she cannot hope to escape a just penalty.
 
