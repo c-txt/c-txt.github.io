@@ -18,9 +18,8 @@ Many believers, walk around today secure in their salvation but blase about thei
 
 So, clearly these verses are not talking about a loss of salvation as some teach, but about judgement by the Lord of which every believer must remain constantly cognizant. 
 
-**Coming up:** A closer look at another scary warning pasage, in Hebrews 4. Stay tuned. 
 
 ---
-Published: 12th October, 2026. Edited: N/A.
+Published: 12th October, 2026. Edited: 2nd November, 2026.
 
 #c-note c261012-2010 #OSAS
