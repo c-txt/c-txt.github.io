@@ -37,7 +37,7 @@ A few verses later, we see:
 
 > Then I saw an angel standing in the sun, and with a loud voice he called to all the birds that fly directly overhead, “Come, gather for the great supper of God, to eat the flesh of kings, the flesh of captains, the flesh of mighty men, the flesh of horses and their riders, and the flesh of all men, both free and slave, both small and great. - Rev 19:17-18
 
-The marriage of the Lamb to His bride the church will be in heaven, with the festivities lasting through the seven years of the tribulation, and the wedding supper will be on the earth likely referring to the millenial kingdom after armageddon where Israel too, as a nation, will become part of the kingdom. The Lord humself gives us a sense of this timeline when he says that He will return for judgement after the wedding:
+The marriage of the Lamb to His bride the church will be in heaven, with the festivities lasting through the seven years of the tribulation, and the wedding supper will be on the earth likely referring to the millenial kingdom after armageddon where Israel too, as a nation, will become part of the kingdom. The Lord himself gives us a sense of this timeline when he says that He will return for judgement after the wedding:
 
 > Stay dressed for action and keep your lamps burning, and be like men who are waiting for their master to come home from the wedding feast, so that they may open the door to him at once when he comes and knocks. - Luke 12:35-36
 
@@ -45,7 +45,7 @@ The marriage of the Lamb to His bride the church will be in heaven, with the fes
 
 As noted earlier, those who teach salvation can be lost often misapply the parable of the ten virgins. They fail firstly to note that the passage applies to Israel, secondly they fail to understand the timeline, and lastly fail also to note that the five virgins to whom the Lord said that He did not know them, never had any oil with them. They had lamps, but no oil. In other words they had the appearance of being ready, but were not ready in actuality. The oil respresents the Holy Spirit, which does the work of conviction and regeneation and the foolish have absolutely no knowledge of Him.    
 
-There is much more to be said and examined when it comes to the prophecies of the Lord, as well as other prophecies concering future things that are yet to come. Understanding these requires careful study and mediatation and the search of many scripture passages. This is why we would do well to be mindful of the apostle Peter's exhortation:
+There is much more to be said and examined when it comes to the prophecies of the Lord, as well as other prophecies concering future things that are yet to come. Understanding these requires careful study and meditation and the search of many scripture passages. This is why we would do well to be mindful of the apostle Peter's exhortation:
 
 > We have the more sure word of prophecy; and you do well that you heed it as to a lamp shining in a dark place, until the day dawns and the morning star arises in your hearts, knowing this first, that no prophecy of Scripture is of private interpretation. - 2 Pet 1: 19,20
 
