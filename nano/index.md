@@ -1,5 +1,5 @@
 
-# Shorts
+# Nano
 
 Some articles that aren't too long but rather quite short
 

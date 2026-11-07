@@ -12,9 +12,9 @@ Some articles gleaned from the Word of God, i.e. The Holy Bible
 A deep look into the verses commonly used byone or the other side in this extremely important debate.
 [Read >>](./OSAS)
 
-## [Shorts](./shorts)
+## [Nano](./nano)
 Some very short articles on biblical topics.
-[Read >>](./shorts) 
+[Read >>](./nano) 
 
 ## Miscellaneous
 | [grammar](./grammar) | 
