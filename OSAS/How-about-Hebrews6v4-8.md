@@ -14,7 +14,11 @@ This is a scary passage that some teachers use to emphasize that salvation can b
 
 There are some who say that this passage is speaking not about saved believers but about those who are only part of a church community but not really saved. 
 
-Earlier, I held to this view myself, until I studied the passage in greater depth and realized that no, the words used make it abundantly clear that the warning refers to those who were truly saved. For instance, the phrase "**tasted** the heavenly gift" does not refer to a mere sampling, as some hold to, because the letter to the Hebrews itself uses the same word to refer to the Lord "**tasting** death" in Heb 2:9. And then, "**shared** in the Holy Spirit" uses the greek word metachos (μέτοχος) which in other passages describes close, for example, business partnerships e.g. Luke 5:7. In Hebrews itself, we see the same word used in chapter 3:14: "For we have become **partakers** of Christ, if we hold the beginning of our confidence firm to the end." In the same way the words "heavenly gift" can only mean the gift of salvation through the Holy Spirit considering its usage elsewhere across the New Testament.   
+Earlier, I held to this view myself, until I studied the passage in greater depth and realized that no, the words used make it abundantly clear that the warning refers to those who were truly saved. 
+
+- For instance, the phrase "**tasted** the heavenly gift" does not refer to a mere sampling, as some hold to, because the letter to the Hebrews itself uses the same word to refer to the Lord "**tasting** death" in Heb 2:9. 
+- And then, "**shared** in the Holy Spirit" uses the greek word metachos (μέτοχος) which in other passages describes close, for example, business partnerships e.g. Luke 5:7. In Hebrews itself, we see the same word used in chapter 3:14: "For we have become **partakers** of Christ, if we hold the beginning of our confidence firm to the end." 
+- In the same way the words "heavenly gift" can only mean the gift of salvation through the Holy Spirit considering its usage elsewhere across the New Testament.   
 
 So, I believe this passage is clearly aimed at depicting a bunch of formerly Jewish believers who had sadly fallen away from the church community. 
 
@@ -70,9 +74,9 @@ On the other hand, the believer who keeps moving forward, fighting against the g
 
 ## Tying up the loose ends
 
-The letter to the Hebrews is a very dense letter, written primarily to a Jewish audience and hence its context must be rightly understood to ensure the intent of its author is not misunderstood. May this be our journey, as we not only read but study its warning passages, so that we can take its message to heart.
+The letter to the Hebrews is a very dense letter, written primarily to a Jewish audience and hence its context must be rightly understood to ensure the intent of its author is not misapplied. May this be our journey, as we not only read but study its warning passages, so that we can take its message to heart.
 
-It took me many months of study, as I went through books, articles, and videos to finally resolve the perplexities about this passage that had been introduced to me by opposing views. However, having studied these issues for myself, in depth, I am now convinced more than ever that salvation once gained cannot be lost. 
+It took me many months of study, as I went through books, articles, and videos to finally resolve my personal perplexities about this passage that had been introduced to me by opposing views. However, having studied these issues for myself, in depth, I am now convinced more than ever that salvation once gained cannot be lost. 
 
 ## References: 
 
